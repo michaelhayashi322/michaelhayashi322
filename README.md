@@ -10,8 +10,7 @@
   </a>
 </p>
 
-# Welcome to my Github #
-
+# My name is Michael Hayashi #
 <div>
 I am a software developer with 10+ long years of experience. My technical skills include Web Development for Ecommerce and CMS, Mobile App Development for Android & iOS app Development. I am passionate about building strong relationships with clients and delivering high quality work to meet their needs.
 </div>
