@@ -39,7 +39,7 @@ I am a software developer with 10+ long years of experience. My technical skills
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/unity-icon.svg" alt="icon" width="65" height="65" />
       <br>Webpack
     </td>
     <td align="center" width="96">
