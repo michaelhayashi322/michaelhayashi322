@@ -1,16 +1,16 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Senior Software Engineer
+  Full Stack Web & Mobile Developer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;6+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Mobile%20Developer;Game%20Developer;Desktop%20Developer;&center=true&width=380&height=45">
   </a>
 </p>
 
-# Hello! 👋 Who am I? #
+# Welcome to my Github #
 
 <div>
 I am a software developer with 10+ long years of experience. My technical skills include Web Development for Ecommerce and CMS, Mobile App Development for Android & iOS app Development. I am passionate about building strong relationships with clients and delivering high quality work to meet their needs.
