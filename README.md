@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://profile-counter.glitch.me/michaelhayashi322/count.svg" />
+</p>
 ![gitartwork](gitartwork.svg)
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -15,7 +18,7 @@
 I am a software developer with 10+ long years of experience. My technical skills include Web Development for Ecommerce and CMS, Mobile App Development for Android & iOS app Development. I am passionate about building strong relationships with clients and delivering high quality work to meet their needs.
 </div>
 
-# 💻 My favorite tools and technologies <img src="https://profile-counter.glitch.me/michaelhayashi322/count.svg" />
+# 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
