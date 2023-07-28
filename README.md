@@ -138,4 +138,3 @@ I am a software developer with 10+ long years of experience. My technical skills
     </td>
  </tr>
 </table>
-<br><br>
