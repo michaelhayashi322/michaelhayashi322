@@ -7,16 +7,15 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono+ExtraLight&weight=800&size=20&duration=1700&pause=800&color=008BFF&height=30&lines=Full%20Stack%20Website%20Developer;Mobile%20Application%20Developer;Mobile%20Game%20Developer;Desktop%20Application%20Developer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono+ExtraLight&weight=800&size=20&duration=1700&pause=800&color=008BFF&height=30&lines=I%20am%20Michael%20Hayashi;Full%20Stack%20Website%20Developer;Mobile%20Application%20Developer;Mobile%20Game%20Developer;Desktop%20Application%20Developer;" alt="Typing SVG" />
   </a>
 </p>
 
-# 🐴 My name is Michael Hayashi.. #
 <div>
 I am a software developer with 10+ long years of experience. My technical skills include Web Development for Ecommerce and CMS, Mobile App Development for Android & iOS app Development. I am passionate about building strong relationships with clients and delivering high quality work to meet their needs.
 </div>
 
-# 💻 My favorite tools and technologies
+# 💻 My favorite tools and technologies <img src="https://profile-counter.glitch.me/michaelhayashi322/count.svg" />
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -137,7 +136,3 @@ I am a software developer with 10+ long years of experience. My technical skills
  </tr>
 </table>
 <br><br>
-# ✍ Visited Times #
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/michaelhayashi322/count.svg" />
-</p>
