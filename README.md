@@ -137,3 +137,6 @@ I am a software developer with 10+ long years of experience. My technical skills
  </tr>
 </table>
 <br><br>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/michaelhayashi322/count.svg" />
+</p>
