@@ -15,7 +15,7 @@
 </p>
 
 <div>
-I am a software developer with 10+ long years of experience. My technical skills include Web Development for Ecommerce and CMS, Mobile App Development for Android & iOS app Development. I am passionate about building strong relationships with clients and delivering high quality work to meet their needs.
+  Hi, welcome to my profile, I am Michael Hayashi and 27 years old. I am a Web developer with 5 years of development experience. I have a strong background knowledge about C++, JavaScript, PHP, DB. I participated several projects using CodeIgniter, Laravel, Custom PHP, Express, React, Vue, Angular, Next, TypeScript, AWS, MongoDB, MySQL, WordPress. I like making daily updates for my clients. Let's build something amazing together!
 </div>
 
 <div style="display: flex; align-items: flex-start; align: center">
