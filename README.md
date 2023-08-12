@@ -72,6 +72,10 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="angular" />
+      <br>Angular
+    </td>
   </tr>
  <tr>
       <td align="center" width="96">
