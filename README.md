@@ -8,11 +8,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono+ExtraLight&weight=800&size=20&duration=1700&pause=800&color=008BFF&height=30&lines=I%20am%20Michael%20Hayashi%20and%2025%20years%20old%20~;I%20am%20a%20Web%20Developer%20and%20freelancer%20~;" alt="Typing SVG" />
-  </a>
-</p>
+
 
 <div>
   Hi, welcome to my profile, I am Michael Hayashi and 27 years old. I am a Web developer with 5 years of development experience. I have a strong background knowledge about C++, JavaScript, PHP, DB. I participated several projects using CodeIgniter, Laravel, Custom PHP, Express, React, Vue, Angular, Next, TypeScript, AWS, MongoDB, MySQL, WordPress. I like making daily updates for my clients. Let's build something amazing together!
