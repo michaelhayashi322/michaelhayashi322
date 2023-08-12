@@ -23,8 +23,7 @@
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="icon" width="65" height="65" />
-      <br>HTML5
+      <br>HTML
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
