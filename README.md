@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono+ExtraLight&weight=800&size=20&duration=1700&pause=800&color=008BFF&height=30&lines=I%20am%20Michael%20Hayashi;Web%20Developer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono+ExtraLight&weight=800&size=20&duration=1700&pause=800&color=008BFF&height=30&lines=I%20am%20Michael%20Hayashi%20and%2025%20years%20old;I%20am%20a%20Web%20Developer;" alt="Typing SVG" />
   </a>
 </p>
 
