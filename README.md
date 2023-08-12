@@ -74,8 +74,8 @@
       <br>Vue
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=codeigniter" width="48" height="48" alt="codeigniter" />
-      <br>codeigniter
+        <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="Next" />
+      <br>Next
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
